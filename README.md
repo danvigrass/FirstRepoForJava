@@ -1,2 +1,1 @@
-# FirstRepoForJava
-CMPSC 421
+This is a repo for a demo Java project.
